@@ -1,5 +1,18 @@
 # @backstage/plugin-scaffolder-common
 
+## 1.3.0
+
+### Minor Changes
+
+- 82e10a6939c: Add support for Markdown text blob outputs from templates
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-model@1.3.0
+  - @backstage/types@1.0.2
+  - @backstage/plugin-permission-common@0.7.5
+
 ## 1.3.0-next.0
 
 ### Minor Changes

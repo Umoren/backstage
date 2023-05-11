@@ -1,5 +1,20 @@
 # @backstage/plugin-jenkins-backend
 
+## 0.1.35
+
+### Patch Changes
+
+- 670a2dd6f4e: Fix handling of slashes in branch names
+- Updated dependencies
+  - @backstage/backend-common@0.18.5
+  - @backstage/plugin-auth-node@0.2.14
+  - @backstage/catalog-client@1.4.1
+  - @backstage/catalog-model@1.3.0
+  - @backstage/config@1.0.7
+  - @backstage/errors@1.1.5
+  - @backstage/plugin-jenkins-common@0.1.15
+  - @backstage/plugin-permission-common@0.7.5
+
 ## 0.1.35-next.1
 
 ### Patch Changes
